@@ -1,6 +1,13 @@
 # Projeto-DoeSaudeApp
 Aplicativo desenvolvido para o Projeto Integrador do Bootcamp Dev Mobile oferecido pela Generation. Visa mitigar o desperdício de insumos e ser um facilitador de interação entre o doador e receptor de insumos.
 
+1. Backend - Construção da API 
+   - NodeJs com framework NestJs (Typescript)
+2. Frontend
+   - Android Studio
+   - Kotlin
+     - Teste
+
 
 
 # Fragment - Login
