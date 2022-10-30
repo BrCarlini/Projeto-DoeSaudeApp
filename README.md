@@ -4,24 +4,35 @@ Aplicativo desenvolvido para o Projeto Integrador do Bootcamp Dev Mobile ofereci
 
 
 # Login
-![image](https://user-images.githubusercontent.com/62159849/198887852-18534b2e-7739-476e-a1c5-5600bca1539e.png)
+![image](https://user-images.githubusercontent.com/62159849/198888946-576a6f9b-a230-4fbe-bfbc-cad248216176.png)
 
 
 # Cadastro de Endereço
-![image](https://user-images.githubusercontent.com/62159849/198888188-7e696d71-2fe6-430e-aafb-0e0505d0512b.png)
+![image](https://user-images.githubusercontent.com/62159849/198888995-2bbc1fb4-4a51-4fd6-ac8f-1011b6ddbd66.png)
+
 
 
 # Cadastro de Usuário
-![image](https://user-images.githubusercontent.com/62159849/198888342-59050978-dfe4-4f22-b9fd-a57e5769d3ab.png)
+![image](https://user-images.githubusercontent.com/62159849/198889029-1fe35a37-e19a-4e7e-9a15-fdcec948c0e4.png)
+
 
 
 # Recuperar Senha
-![image](https://user-images.githubusercontent.com/62159849/198888409-c74c61cb-71c4-4e6f-8fe4-5c625d4ba5c6.png)
+![image](https://user-images.githubusercontent.com/62159849/198889049-fba5013c-896f-4f94-ac6d-bbee12219dff.png)
 
 
 # Feed
-![image](https://user-images.githubusercontent.com/62159849/198888732-0cea3528-f463-40a6-820d-1b6f656af6e2.png)
+![image](https://user-images.githubusercontent.com/62159849/198888896-f0ca5ea3-1e79-48b6-aa51-7fa394131931.png)
 
 
 # Formulário de Postagem
 ![image](https://user-images.githubusercontent.com/62159849/198888770-4efe6268-d3e7-4673-acaa-600e6023682b.png)
+
+
+# Suporte
+![image](https://user-images.githubusercontent.com/62159849/198888839-85a9d7ba-f8c3-44e6-9543-817dc11b3023.png)
+
+
+# Perfil (Implementação Futura)
+![image](https://user-images.githubusercontent.com/62159849/198888875-e6af6b0b-24a6-42d1-8238-489619db5530.png)
+
