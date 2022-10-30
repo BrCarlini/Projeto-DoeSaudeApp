@@ -6,7 +6,12 @@ Aplicativo desenvolvido para o Projeto Integrador do Bootcamp Dev Mobile ofereci
 2. Frontend
    - Android Studio
    - Kotlin
-     -Teste
+3. Injeção de Dependências
+   - Hilt
+   - Retrofit
+   - Corrotinas
+   - Glide
+   - MASK
 
 
 
