@@ -6,7 +6,7 @@ Aplicativo desenvolvido para o Projeto Integrador do Bootcamp Dev Mobile ofereci
 2. Frontend
    - Android Studio
    - Kotlin
-     - Teste
+     -Teste
 
 
 
